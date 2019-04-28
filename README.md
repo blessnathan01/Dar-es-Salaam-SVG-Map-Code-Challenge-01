@@ -1,2 +1,5 @@
 # Dar-es-Salaam-SVG-Map-Code-Challenge-01
-It is a code challenge.
+
+## About me
+
+My name is BlessNathan. I am a developer, innovator and tech enthusiast.
